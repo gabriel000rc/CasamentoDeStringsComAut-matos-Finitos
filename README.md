@@ -1,4 +1,4 @@
-# CasamentoDeStringsComAut-matos-Finitos
+# Casamento De Strings Com Auto matos Finitos
 Exercício de teoria da computação.
 
 O projeto foi desenvolvido na linguagem C seguindo os critérios de avaliação especificados junto a descrição do projeto.
@@ -13,4 +13,4 @@ Subpalavra: recebe uma palavra e uma chave, armazena o tamanho de ambas em vari�
 
 A quarta função citada acima é apenas para simplificar manutenções futuras quanto a mensagem de erro;
 
-O programa em questão foi desenvolvido na IDE Code-Blocks, é recomendado que se utilize a mesma IDE para que aja o pleno funcionamento do programa
+O programa em questão foi desenvolvido na IDE Code-Blocks, é recomendado que se utilize a mesma IDE para que aja o pleno funcionamento do programa.
