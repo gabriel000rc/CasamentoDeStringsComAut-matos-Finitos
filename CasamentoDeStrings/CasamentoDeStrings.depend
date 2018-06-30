@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1529638160 source:d:\games\one drive\onedrive\faculdade\teoria da computação\casamentodestrings\casamentodestrings.c
+	"CasamentoDeStrings.h"
+
+1529634597 d:\games\one drive\onedrive\faculdade\teoria da computação\casamentodestrings\casamentodestrings.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1529634023 source:d:\games\one drive\onedrive\faculdade\teoria da computação\casamentodestrings\main.c
+	"CasamentoDeStrings.h"
+
+1529858183 source:c:\users\gabriel\onedrive\faculdade\teoria da computação\casamentodestrings\main.c
+	"CasamentoDeStrings.h"
+
+1529634597 c:\users\gabriel\onedrive\faculdade\teoria da computação\casamentodestrings\casamentodestrings.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1529858595 source:c:\users\gabriel\onedrive\faculdade\teoria da computação\casamentodestrings\casamentodestrings.c
+	"CasamentoDeStrings.h"
+
